@@ -4,7 +4,7 @@
 
 ## About Me
 
-Full-stack developer with a strong backend focus, passionate about building robust, scalable applications. I enjoy the logical aspects of development, always look for ways to improve the code I work with, and love customizing Linux environments. 
+Hello! My name is Diego and I'm a Software Engineer passionate about design patterns, architecture, and best practices. I enjoy the logical aspects of development, always look for ways to improve the code I work with, and love customizing Linux environments.
 
 ## 🛠️ Tech Stack
 
