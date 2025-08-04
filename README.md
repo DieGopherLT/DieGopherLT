@@ -46,5 +46,4 @@ Hello! My name is Diego and I'm a Software Engineer passionate about design patt
 
 - 🔭 Expanding knowledge in **DevOps** and **Cloud Technologies**
 - 🌱 Learning about containerization, orchestration, and CI/CD pipelines
-- 🚀 Building scalable backend architectures
 - 🤖 Exploring automation tools and practices
